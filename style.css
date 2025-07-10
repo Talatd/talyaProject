@@ -121,3 +121,38 @@ p {
   font-style: italic;
   margin-left: 5px;
 }
+
+.contributors-section {
+  margin-top: 25px;
+  padding-top: 15px;
+  border-top: 1px solid #e0e0e0;
+  text-align: left;
+}
+
+.contributors-section h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #555;
+  font-size: 16px;
+}
+
+.contributors-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contributors-section li {
+  margin-bottom: 5px;
+  color: #555;
+}
+
+.contributors-section a {
+  color: #2c2030;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.contributors-section a:hover {
+  text-decoration: underline;
+}
