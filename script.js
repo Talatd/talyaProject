@@ -1,0 +1,1 @@
+console.log("Ben Talat Talya Bilişim'de staj yapıyorum");
